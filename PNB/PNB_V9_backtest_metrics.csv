@@ -1,0 +1,4 @@
+,Strategy,Final Capital,Total Return %,CAGR %,Sharpe Ratio,Max Drawdown %,Calmar Ratio
+0,Ensemble (RF + HGB) | Pruned feats | Full Costs | Expanding Retrain,"₹412,541",+312.54%,+43.60%,1.267,-38.71%,1.126
+1,Buy & Hold (+ Full Costs),"₹346,566",+246.57%,+37.35%,1.082,-37.66%,0.992
+2,Random Baseline (+ Full Costs),"₹91,730",-8.27%,-2.18%,0.059,-41.80%,-0.052
